@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @billtsol
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Django & Javascript
+- 🌱 I’m currently learning Django & React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
