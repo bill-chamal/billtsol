@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bill Tsolakidis</h1>
 <h3 align="center">A passionate developer from W.</h3>
-<img align="right" alt="Coding" with="400" scr="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 
+<img align="right" width="400" src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35-4e3b-9d7e-24ed50f5e03d.gif" alt="Yes">
 
 - 🔭 I’m currently not working on **anything**
 
