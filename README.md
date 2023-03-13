@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently not working on **anything**
 
-- 🌱 I’m currently learning **Flutter, Django**
+- 🌱 I’m currently learning ...
 
 - 👨‍💻 All of my projects are available at [...](...)
 
