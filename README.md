@@ -2,7 +2,7 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35-4e3b-9d7e-24ed50f5e03d.gif" alt="Yes">
 
-- 🌱 I’m currently learning Vue js
+- 🌱 I’m currently learning Vue js and Searching Algorithms 
 - 🎓 Studying computer science at University of Macedonia
 - 📫 How to reach me **billtsol@protonmail.com**
 
