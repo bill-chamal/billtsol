@@ -15,7 +15,7 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-<center>
+<div align="center">
 
 <a href="#">
   <img src="https://skillicons.dev/icons?i=py,js,java,php,r,cpp,postgres" />
@@ -33,12 +33,12 @@
   <img src="https://skillicons.dev/icons?i=linux,vscode,firebase,github,xd,ae" />
 </a>
 
-</center>
+</div>
 
 <h2 align="left">Github stats:</h2>
 
 <p>
-  <img style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs?username=billtsol&show_icons=true&locale=en&layout=compact" alt="billtsol" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=billtsol&show_icons=true&locale=en&layout=compact" alt="billtsol" />
 
-  <img style="float:right" src="https://github-readme-streak-stats.herokuapp.com/?user=billtsol&" alt="billtsol" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=billtsol&" alt="billtsol" />
 </p>
